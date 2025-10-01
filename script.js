@@ -39,4 +39,5 @@ function editTask(span){
   if(updated!==null && updated.trim()!==""){
     span.textContent = updated.trim();
   }
+
 }
